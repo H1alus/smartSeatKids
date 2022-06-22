@@ -3,7 +3,7 @@ A smart seat for kids preventing hot car deaths and abandonment from their paren
 
 **this is a thesis' project** any documentation regarding the code and project structure is currently released inside the thesis' document, in future I will add a documentation explaining the whole project structure.
 ****
-## Repoitory structure
+## Repository structure
 - **baseStation** all code and requirement for the base station, hence the raspberry PI 3b.
 - **circuitPlayground** all code and requirements for the circuit Playground Bluefruit, the *harvesting platform*.
 - **reports** all the raw data, python scripts for plotting the data and graphs used inside the Thesis' document.
