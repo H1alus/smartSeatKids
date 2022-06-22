@@ -1,0 +1,26 @@
+gps.py-gps_thread.INFO: started gps thread at 2149
+ble.py-ble_thread.INFO: started BLE thread at 2151
+matrix.py-matrix_thread.INFO: started communication thread at 2158
+ble.py-ble_thread.INFO: connected to bluetooth device at 40844
+fsm.py-baby_setOut.INFO: state = baby_set at 41214
+matrix.py-send_alert.INFO: sending alert "smart-seat connesso" at 42001
+fsm.py-alarmOut.INFO: state = alarm at 161408
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 161631
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 162993
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 164323
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 165498
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 166665
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 167920
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 169127
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 170287
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 171482
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 172684
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 173939
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 175463
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 176637
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 177796
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 178980
+ble.py-ble_thread.ERROR: error in obtaining data from thermistor at 179725
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 180158
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 181342
+fsm.py-defaultOut.INFO: state = default at 181439

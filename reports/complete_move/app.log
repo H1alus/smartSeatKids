@@ -1,0 +1,64 @@
+gps.py-gps_thread.INFO: started gps thread at 3648
+ble.py-ble_thread.INFO: started BLE thread at 3650
+matrix.py-matrix_thread.INFO: started communication thread at 3666
+gps.py-gps_thread.ERROR: error decoding data from GPS at 5354
+ble.py-ble_thread.INFO: connected to bluetooth device at 6467
+fsm.py-baby_setOut.INFO: state = baby_set at 6671
+matrix.py-send_alert.INFO: sending alert "smart-seat connesso" at 6780
+fsm.py-car_movingOut.INFO: state = car_moving at 49740
+fsm.py-car_stoppedOut.INFO: state = car_stopped at 112837
+fsm.py-car_movingOut.INFO: state = car_moving at 154907
+fsm.py-car_stoppedOut.INFO: state = car_stopped at 219006
+fsm.py-alarmOut.INFO: state = alarm at 339207
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 339407
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 340827
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 342158
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 343386
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 344718
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 345881
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 347123
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 348403
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 350759
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 352705
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 355083
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 356267
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 357507
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 358667
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 359879
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 361204
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 362371
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 364174
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 365342
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 366534
+fsm.py-car_movingOut.INFO: state = car_moving at 367251
+ble.py-ble_thread.ERROR: error in obtaining data from thermistor at 400282
+ble.py-ble_thread.ERROR: error in obtaining data from thermistor at 402309
+fsm.py-defaultOut.INFO: state = default at 404310
+ble.py-ble_thread.INFO: connected to bluetooth device at 405577
+fsm.py-baby_setOut.INFO: state = baby_set at 406314
+matrix.py-send_alert.INFO: sending alert "smart-seat connesso" at 406904
+fsm.py-car_movingOut.INFO: state = car_moving at 407317
+ble.py-ble_thread.ERROR: error in obtaining data from thermistor at 420563
+ble.py-ble_thread.ERROR: error in obtaining data from thermistor at 422586
+fsm.py-defaultOut.INFO: state = default at 424343
+ble.py-ble_thread.INFO: connected to bluetooth device at 426730
+fsm.py-baby_setOut.INFO: state = baby_set at 427349
+matrix.py-send_alert.INFO: sending alert "smart-seat connesso" at 428149
+fsm.py-car_movingOut.INFO: state = car_moving at 428352
+fsm.py-car_stoppedOut.INFO: state = car_stopped at 430356
+fsm.py-alarmOut.INFO: state = alarm at 437368
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 437686
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 439039
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 440679
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 442011
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 443240
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 444445
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 445642
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 447030
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 448260
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 449487
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 450819
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 452014
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 453190
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 454414
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 455940

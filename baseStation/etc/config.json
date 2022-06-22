@@ -1,0 +1,6 @@
+{
+    "home_server": "<homeserver_address>",
+    "username": "<safechild_bot_nick",
+    "passwd": "<password_to_user",
+    "room_id": "<room_id>"
+}

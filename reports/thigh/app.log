@@ -1,0 +1,19 @@
+gps.py-gps_thread.INFO: started gps thread at 4117
+ble.py-ble_thread.INFO: started BLE thread at 4120
+matrix.py-matrix_thread.INFO: started communication thread at 4150
+gps.py-gps_thread.ERROR: error decoding data from GPS at 4700
+ble.py-ble_thread.INFO: connected to bluetooth device at 61085
+fsm.py-baby_setOut.INFO: state = baby_set at 61276
+matrix.py-send_alert.INFO: sending alert "smart-seat connesso" at 61534
+fsm.py-car_movingOut.INFO: state = car_moving at 112357
+fsm.py-car_stoppedOut.INFO: state = car_stopped at 154420
+fsm.py-alarmOut.INFO: state = alarm at 155423
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 156356
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 165516
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 167084
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 168807
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 171282
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 172511
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 173739
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 175094
+matrix.py-send_alert.INFO: sending alert "ATTENZIONE: BAMBINO ANCORA IN AUTO" at 176402

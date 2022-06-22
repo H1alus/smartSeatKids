@@ -1,0 +1,4 @@
+transitions == 0.8.11
+matrix-nio == 0.19.0
+pynmea2 == 1.18.0
+adafruit-circuitpython-ble == 8.3.3
